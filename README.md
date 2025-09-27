@@ -31,32 +31,19 @@ Later, the system was expanded with:
 - 4 × LDR sensors
 - 2 × Servo motors
 - DHT22 temperature & humidity sensor
-- Voltage sensor (on pin D25, ESP32)
-- Current sensor (ACS712 on pin D26, ESP32)
+- Voltage sensor 
+- Current sensor 
 - Solar panel
 
+Note: Don't forget to follow the specific pins for each sensor inside the code, otherwise you will have to make your own changes.
 ---
 
 ## 💻 Software Used
 - Arduino IDE
-- ESP32 libraries
+- ESP32 and Arduino Uno libraries
 - Blynk IoT platform
 - GitHub for version control
 
----
-
-## 📂 Project Structure
-Arduino_Project/
-│
-├── arduinoblynk/ # Arduino Uno version
-│ └── arduinoblynk.ino
-│
-├── esp32blynk/ # ESP32 IoT-enabled version
-│ └── esp32blynk.ino
-│
-├── esp32.jpg # for esp32 GPIOs
-├── .gitignore
-└── README.md
 
 
 
