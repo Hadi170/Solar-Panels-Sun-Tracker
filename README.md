@@ -74,11 +74,11 @@ Open .ino file in Arduino IDE.
 
 Install required libraries:
 
-Servo.h
+-Servo.h
 
-BlynkSimpleEsp32.h
+-BlynkSimpleEsp32.h
 
-DHT.h
+-DHT.h
 
 Select correct board (Arduino Uno or ESP32).
 
