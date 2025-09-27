@@ -67,17 +67,16 @@ Arduino_Project/
 ### Clone the repository
 ```bash
 git clone https://github.com/Hadi170/Solar-Panels-Sun-Tracker.git
+
+```
 Upload to Arduino/ESP32
 Open .ino file in Arduino IDE.
 
 Install required libraries:
 
-Servo.h
-
-BlynkSimpleEsp32.h
-```
-
-DHT.h
+-Servo.h
+-BlynkSimpleEsp32.h
+-DHT.h
 
 Select correct board (Arduino Uno or ESP32).
 
