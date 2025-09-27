@@ -85,7 +85,7 @@ Upload and run.
 
 **Demo Video:
 **
-[![Watch the video](https://img.shields.io/badge/Video-Demo-blue?logo=github)](https://github.com/Hadi170/Solar-Panels-Sun-Tracker/releases/download/v1.0/ROBOTICS2.mp4)
+[![Watch the video](https://img.shields.io/badge/Video-Demo-blue?logo=github)](https://github.com/Hadi170/Solar-Panels-Sun-Tracker/releases/download/V1.0/ROBOTICS2.mp4)
 
 
 
