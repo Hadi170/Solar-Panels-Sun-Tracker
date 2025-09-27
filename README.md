@@ -35,7 +35,12 @@ Later, the system was expanded with:
 - Current sensor 
 - Solar panel
 
-Note: Don't forget to follow the specific pins for each sensor inside the code, otherwise you will have to make your own changes.
+Note: Don't forget to follow the specific pins for each sensor inside the code, otherwise you will have to make your own changes.\
+
+
+You can use the image below to follow esp32 GPIOs pins
+
+![Image](https://github.com/user-attachments/assets/56b849e9-7021-48a5-a9df-443f333b9f3a)
 ---
 
 ## 💻 Software Used
