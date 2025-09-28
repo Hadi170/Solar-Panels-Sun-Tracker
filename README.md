@@ -84,7 +84,9 @@ Upload and run.
 
 
 ## 🎥 Demo Video
-[![Solar Tracker Demo](demo.gif)](https://github.com/Hadi170/Solar-Panels-Sun-Tracker/releases/download/V1.0/ROBOTICS2.mp4)
+<a href="https://github.com/Hadi170/Solar-Panels-Sun-Tracker/releases/download/V1.0/ROBOTICS2.mp4">
+  <img src="demo.gif" alt="Solar Tracker Demo" width="100%">
+</a>
 
 
 
