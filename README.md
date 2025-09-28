@@ -72,22 +72,19 @@ Open .ino file in Arduino IDE.
 
 Install required libraries:
 
--Servo.h
+- Servo.h
 
--BlynkSimpleEsp32.h
+- BlynkSimpleEsp32.h
 
--DHT.h
+- DHT.h
 
 Select correct board (Arduino Uno or ESP32).
 
 Upload and run.
 
 
-**Demo Video:**
-
-
+## 🎥 Demo Video
 [![Solar Tracker Demo](demo.gif)](https://github.com/Hadi170/Solar-Panels-Sun-Tracker/releases/download/v1.0/ROBOTICS2.mp4)
-
 
 
 
